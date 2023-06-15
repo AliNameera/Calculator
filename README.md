@@ -1,3 +1,4 @@
+![screenshot](https://github.com/AliNameera/Calculator/assets/126184434/5a5573f9-adb4-446b-ac39-f0a49dc62e34)
 # Flutter app in Zapp!
 
 A new Flutter project built with Zapp!
